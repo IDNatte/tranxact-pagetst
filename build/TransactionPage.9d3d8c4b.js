@@ -1,0 +1,2 @@
+import{S as s,i as a,s as t,e as n,b as r,d as i,n as e,g as o,j as c,l as p}from"./main.6928c3c6.js";import{f as u}from"./index.1ff20263.js";function d(s){let a,t;return{c(){a=n("div"),a.innerHTML="<p>Transaction page</p>",r(a,"class","user-transaction")},m(s,t){i(s,a,t)},p:e,i(s){t||o((()=>{t=p(a,u,{duration:500}),t.start()}))},o:e,d(s){s&&c(a)}}}export default class extends s{constructor(s){super(),a(this,s,null,d,t,{})}}
+//# sourceMappingURL=TransactionPage.9d3d8c4b.js.map

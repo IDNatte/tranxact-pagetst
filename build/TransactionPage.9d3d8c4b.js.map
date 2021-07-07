@@ -1,0 +1,1 @@
+{"version":3,"file":"TransactionPage.9d3d8c4b.js","sources":["../../src/page/User/page/TransactionPage.svelte"],"sourcesContent":["<script>\r\n  import { fade } from 'svelte/transition'\r\n</script>\r\n\r\n<div class=\"user-transaction\" in:fade=\"{{duration: 500}}\">\r\n  <p>Transaction page</p>\r\n</div>"],"names":["duration"],"mappings":"+SAIyCA,SAAU"}

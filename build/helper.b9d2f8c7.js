@@ -1,0 +1,2 @@
+function e(e,t){let n,o,r,c,p,a;if("string"!=typeof e)throw new Error("Invalid Input !");n={},o=n.hasOwnProperty,r=(e=e.replace(/\+/g," ")).split(/[&;]/);for(let e=0;e<r.length;e++)if(c=r[e].match(/^([^=]*)=?(.*)/),c[1]){try{p=decodeURIComponent(c[1]),a=decodeURIComponent(c[2])}catch(e){throw"Invaid %-encoded sequence"}t?o.call(n,p)?n[p].push(a):n[p]=[a]:n[p]=a}return n}export{e as Q};
+//# sourceMappingURL=helper.b9d2f8c7.js.map

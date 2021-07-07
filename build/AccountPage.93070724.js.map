@@ -1,0 +1,1 @@
+{"version":3,"file":"AccountPage.93070724.js","sources":["../../src/page/User/page/AccountPage.svelte"],"sourcesContent":["<script>\r\n  import { fade } from 'svelte/transition'\r\n</script>\r\n\r\n<div class=\"user-account\" in:fade=\"{{duration: 500}}\">\r\n  <p>account page</p>\r\n</div>"],"names":["duration"],"mappings":"uSAIqCA,SAAU"}
